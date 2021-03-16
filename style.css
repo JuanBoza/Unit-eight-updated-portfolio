@@ -90,15 +90,7 @@ img{
     margin: auto;
 }
 
-.slippery-slopes {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px; 
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff; 
-    position: relative;
-}
+
 
 .code-Quiz {
     margin-bottom: 20px;
@@ -300,4 +292,42 @@ li {
 
 ul li{ 
   color: white;
+}
+
+
+
+.slippery-slopes,
+.color-picker,
+.healthy-habits,
+.weather-dashboard,
+.notes,
+.day-planner,
+.my-team{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+    position: relative;
+}
+
+.healthy-habits,
+.color-picker,
+.slippery-slopes,
+.notes,
+.day-planner,
+.my-team
+{
+  height: 600px
+}
+
+.code-Quiz,
+.password-generator
+{
+  height: 500px;
+}
+
+.weather-dashboard{
+  height: 400px;
 }
