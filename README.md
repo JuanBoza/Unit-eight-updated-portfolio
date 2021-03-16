@@ -10,7 +10,7 @@ Install
   * none 
 
 URL 
-  * Deployed application: 
+  * Deployed application: https://juanboza.github.io/Unit-eight-updated-portfolio/
   * Github Repository: https://github.com/JuanBoza/Unit-eight-updated-portfolio
 
 Screenshots
